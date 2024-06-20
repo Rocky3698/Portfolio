@@ -15,7 +15,7 @@ const Menu = ({ setCurrentSection }) => {
     };
 
     return (
-        <div className='bg-white col-span-1 me-3 space-y-4 flex flex-col items-center py-5 rounded-lg h-fit'>
+        <div className='bg-white col-span-1 me-3 space-y-4 flex flex-col items-center py-5 rounded-lg h-fit sticky top-10'>
             <button
                 onClick={() => handleClick('about')}
                 className={`w-20 h-16 ${activeSection === 'about' ? 'bg-green-300' : 'bg-gray-100'} rounded-lg`}
