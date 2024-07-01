@@ -20,7 +20,7 @@ const About = () => {
                         <div className="col-span-10">
                             <h1 className="font-bold text-2xl">Web Development</h1>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nihil vitae ut a quasi repudiandae magnam iusto commodi, sapiente deleniti fuga totam quia itaque voluptate vero? Facilis et quo sit?
+                            I started with the basics of HTML, CSS, and JavaScript, creating structured and visually appealing web pages. I then explored frameworks like Bootstrap, Tailwind, and DaisyUI for responsive design and learned React for dynamic interfaces. This comprehensive understanding allows me to build robust and engaging websites.
                             </p>
                         </div>
                     </div>
@@ -29,7 +29,7 @@ const About = () => {
                         <div className="col-span-10">
                             <h1 className="font-bold text-2xl">Frontend Development</h1>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nihil vitae ut a quasi repudiandae magnam iusto commodi, sapiente deleniti fuga totam quia itaque voluptate vero? Facilis et quo sit?
+                            I focus on crafting intuitive and visually appealing user interfaces. Using HTML, CSS, and JavaScript, I create the structure and style of web pages. My experience with frameworks like Bootstrap, Tailwind, and DaisyUI, along with proficiency in React, ensures responsive and interactive frontend solutions.
                             </p>
                         </div>
                     </div>
@@ -38,7 +38,7 @@ const About = () => {
                         <div className="col-span-10">
                             <h1 className="font-bold text-2xl">Backend Development</h1>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nihil vitae ut a quasi repudiandae magnam iusto commodi, sapiente deleniti fuga totam quia itaque voluptate vero? Facilis et quo sit?
+                            My backend development skills include creating robust server-side applications with Django and the Django Rest Framework (DRF). I have completed two DRF projects and two Model-View-Template (MVT) projects. I am proficient in MySQL and PostgreSQL, enabling me to design efficient data storage solutions and develop scalable, secure backend systems.
                             </p>
                         </div>
                     </div>
@@ -47,7 +47,7 @@ const About = () => {
                         <div className="col-span-10">
                             <h1 className="font-bold text-2xl">Competitive Programming</h1>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nihil vitae ut a quasi repudiandae magnam iusto commodi, sapiente deleniti fuga totam quia itaque voluptate vero? Facilis et quo sit?
+                            Competitive programming has sharpened my problem-solving skills. Starting with C and C++, I built a strong foundation and progressed to platforms like CodeChef, achieving a 2-star rating, and Codeforces, with a rating of almost 1200. Solving DSA problems on LeetCode has further enhanced my coding abilities and logical thinking.
                             </p>
                         </div>
                     </div>

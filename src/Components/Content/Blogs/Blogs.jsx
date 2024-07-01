@@ -1,8 +1,8 @@
 
 const Blogs = () => {
     return (
-        <div>
-            blogs
+        <div className="p-8">
+            Upcoming... ...
         </div>
     );
 };

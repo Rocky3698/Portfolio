@@ -19,7 +19,7 @@ const Profile = () => {
                 <Activities></Activities>
                 <PersonalDetails></PersonalDetails>
                 <div>
-                <button className="btn btn-outline btn-success btn-wide my-5"><FaDownload></FaDownload> Download Resume</button>
+                <a href="https://drive.google.com/file/d/1zK5LxNeAA7_JdWgvgICkm-c-lkrZOSlF/view?usp=sharing" target="_blank" className="btn btn-outline btn-success btn-wide my-5"><FaDownload></FaDownload> Download Resume</a>
             </div>
             </div>
         </div>
