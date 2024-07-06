@@ -2,6 +2,7 @@ import { FaDownload } from "react-icons/fa6";
 import SocialLinks from './SocialLinks';
 import PersonalDetails from './PersonalDetails';
 import Activities from './Activities/Activities';
+import Footer from './Footer';
 
 const Profile = () => {
     return (
@@ -20,6 +21,7 @@ const Profile = () => {
                 <PersonalDetails></PersonalDetails>
                 <div>
                 <a href="https://drive.google.com/file/d/1zK5LxNeAA7_JdWgvgICkm-c-lkrZOSlF/view?usp=sharing" target="_blank" className="btn btn-outline btn-success btn-wide my-5"><FaDownload></FaDownload> Download Resume</a>
+                <Footer></Footer>
             </div>
             </div>
         </div>
